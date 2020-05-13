@@ -1,1 +1,0 @@
-# Transparent and Opaque Ascription
